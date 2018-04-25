@@ -8,7 +8,7 @@ public class KelasDua {
     String jenis;
     
     public KelasDua(){
-        System.out.println("");
+        System.out.println(""); // Testing Divi
     }
     public KelasDua (String owner, String id){
         this.owner=owner;
