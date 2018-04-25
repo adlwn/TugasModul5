@@ -1,4 +1,4 @@
-package javamodul5_tugas_kelompok9;
+package javamodul5_tugas_kelompok9;//yolooooooo
 import java.io.IOException;
 import java.util.Scanner;
 import java.io.BufferedReader;
